@@ -1,6 +1,8 @@
 # TroubleshootingBot: LangGraph + Neo4j + Flask
 ![banner](assets/banner.png)
+
 ![langgragh](assets/langgraph_structure.png)
+
 ![gragh](assets/Neo4j_3.jpg)
 
 This prototype demonstrates a semantic troubleshooting assistant that leverages:
@@ -50,7 +52,7 @@ The goal is to perform semantic search over a Neo4j knowledge graph using query 
 ```
 
 ---
-![embd](assets/Neo4j_embd.png)
+![embd](assets/Neo4j_embd.jpg)
 
 ## Architecture Overview
 
@@ -92,9 +94,9 @@ Try any of these:
 - “Are the modem lights important to check first?”
 - “Should I restart the modem if the internet is not working?”
 - “Can the customer request a callback if the issue remains?”
-![re1](assets/UI_1.png)
-![re2](assets/UI_2.png)
-![re3](assets/UI_3.png)
+![re1](assets/UI_1.jpg)
+![re2](assets/UI_2.jpg)
+![re3](assets/UI_3.jpg)
 
 ## Future Improvements
 
