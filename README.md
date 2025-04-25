@@ -53,10 +53,10 @@ The goal is to perform semantic search over a Neo4j knowledge graph using query 
 
 ---
 ![embd](assets/Neo4j_embd.jpg)
-
+---
 ## Architecture Overview
 
-```mermaid
+mermaid
 graph TD
     SemanticMatch --> GetProcedure
     GetProcedure --> BuildAnswer
