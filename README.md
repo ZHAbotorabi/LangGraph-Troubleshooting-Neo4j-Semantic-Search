@@ -1,7 +1,7 @@
 # TroubleshootingBot: LangGraph + Neo4j + Flask
 ![banner](assets/banner.png)
 ![langgragh](assets/langgraph_structure.png)
-![gragh](assets/Neo4j_3.png)
+![gragh](assets/Neo4j_3.jpg)
 
 This prototype demonstrates a semantic troubleshooting assistant that leverages:
 - **Semantic Search** with SentenceTransformers
