@@ -1,7 +1,7 @@
 # TroubleshootingBot: LangGraph + Neo4j + Flask
 ![banner](assets/banner.png)
 
-![langgragh](assets/langgraph_structure.png)
+![langgragh](assets/langgraph_structure_1.png)
 
 ![gragh](assets/Neo4j_3.jpg)
 
